@@ -1,12 +1,11 @@
 ### I’m currently working on:
-- https://drbmshoes.com (not open source)
-- https://benyamin-git.github.io/ClyTrade
-- https://github.com/benyamin-git/ClyTrade
+- [Dr. BM Shoes](https://drbmshoes.com) (not open source and not owned by me)
+- [ClyTrade)(https://github.com/benyamin-git/ClyTrade), [Sample](https://benyamin-git.github.io/ClyTrade)
 
 ### Active side projects:
-- https://github.com/benyamin-git/dailypoker.bot
-- https://github.com/benyamin-git/poker.pot
-- https://github.com/benyamin-git/ORBYN
+- [dailypoker.bot](https://github.com/benyamin-git/dailypoker.bot)
+- [poker.pot](https://github.com/benyamin-git/poker.pot)
+- [ORBYN](https://github.com/benyamin-git/ORBYN)
 
 ### Unmaintained / no longer active projects:
 - https://github.com/benyamin-git/poker.cli
