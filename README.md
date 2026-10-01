@@ -3,6 +3,7 @@
 - https://github.com/benyamin-git/ClyTrade
 
 ### Active side projects:
+- https://github.com/benyamin-git/dailypoker.bot
 - https://github.com/benyamin-git/poker.pot
 - https://github.com/benyamin-git/ORBYN
 
