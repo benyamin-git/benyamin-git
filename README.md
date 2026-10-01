@@ -8,7 +8,8 @@
 - [ORBYN](https://github.com/benyamin-git/ORBYN)
 
 ### Unmaintained / no longer active projects:
-- https://github.com/benyamin-git/poker.cli
+- [poker.cli](https://github.com/benyamin-git/poker.cli)
+- [Coffer](https://github.com/benyamin-git/coffer)
 
 ### How to reach me:
 - benyaminprotonmail@proton.me
