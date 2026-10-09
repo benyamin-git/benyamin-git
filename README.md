@@ -6,8 +6,8 @@
 - [dailypoker.bot](https://github.com/benyamin-git/dailypoker.bot): opinionated version of poker i play with friends as a telegram bot that can be run on cloudflare workflow services. (not normal betting rules and not real money)
 - [poker.pot](https://github.com/benyamin-git/poker.pot): opinionated poker pot manager as a simple webapp to keep track of my friend group's poker bets to substitute a lack of chips. (not normal betting rules)
 - [ORBYN](https://github.com/benyamin-git/ORBYN): simple lightweight terminal screensaver with different versions.
-- [Kumiho](https://github.com/benyamin-git/Kumiho)
-- [Inlign](https://github.com/benyamin-git/Inlign)
+- [Kumiho](https://github.com/benyamin-git/Kumiho): simple cli vpn client optimised for my ubuntu server setup using firefox services similar to and inspired by [FoxyVPN](https://github.com/Vauth/FoxyVPN).
+- [Inlign](https://github.com/benyamin-git/Inlign): very early draft of a project similar to but not inspired by [Soulver](https://soulver.app/).
 
 ### Unmaintained / no longer active projects:
 - [poker.cli](https://github.com/benyamin-git/poker.cli): a cli version of [poker.pot](https://github.com/benyamin-git/poker.pot) with a bunch of bugs and half finished features.
