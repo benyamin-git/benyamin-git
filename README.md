@@ -49,14 +49,12 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/benyamin-git/poker.pot"><img src="assets/poker-pot.png" width="220" alt="poker.pot live match screen"></a><br>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/benyamin-git/poker.pot">poker.pot</a></strong><br>
       <sub>Phone-first poker pot manager with Android APK and PWA support.</sub><br>
       <a href="https://github.com/benyamin-git/poker.pot/releases"><img src="https://img.shields.io/github/v/release/benyamin-git/poker.pot?include_prereleases&amp;style=flat-square&amp;label=" alt="Latest poker.pot release"></a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/benyamin-git/ORBYN"><img src="assets/orbyn.gif" width="380" alt="ORBYN orb drifting in a terminal"></a><br>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/benyamin-git/ORBYN">ORBYN</a></strong><br>
       <sub>Terminal screensaver with orb, carrion and ASCII worm modes.</sub><br>
       <a href="https://github.com/benyamin-git/ORBYN/releases"><img src="https://img.shields.io/github/v/release/benyamin-git/ORBYN?include_prereleases&amp;style=flat-square&amp;label=" alt="Latest ORBYN release"></a>
