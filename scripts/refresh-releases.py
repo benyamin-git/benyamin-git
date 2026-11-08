@@ -49,7 +49,11 @@ def row(name: str, repo: str, release: dict | None) -> str:
     tag = release["tag_name"]
     link = release["html_url"]
     date = (release.get("published_at") or release.get("created_at") or "")[:10]
-    return f"| [{name}]({url}) | [{tag}]({link}) | {date} |"
+    badge = (
+        f"https://img.shields.io/github/v/release/{OWNER}/{repo}"
+        "?include_prereleases&style=flat-square&label="
+    )
+    return f"| [{name}]({url}) | [![{tag}]({badge})]({link}) | {date} |"
 
 
 def main() -> int:
