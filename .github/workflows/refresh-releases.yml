@@ -1,0 +1,37 @@
+name: Refresh latest releases
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-releases
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Update release table
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/refresh-releases.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No release changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh latest releases"
+          git push
