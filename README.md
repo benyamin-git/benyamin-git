@@ -89,7 +89,7 @@
 | Project | Latest release | Published |
 | --- | --- | --- |
 | [ClyTrade](https://github.com/benyamin-git/ClyTrade) | [![v0.5.5](https://img.shields.io/github/v/release/benyamin-git/ClyTrade?include_prereleases&style=flat-square&label=)](https://github.com/benyamin-git/ClyTrade/releases/tag/v0.5.5) | 2026-11-08 |
-| [Kumiho](https://github.com/benyamin-git/Kumiho) | [![v0.10.2](https://img.shields.io/github/v/release/benyamin-git/Kumiho?include_prereleases&style=flat-square&label=)](https://github.com/benyamin-git/Kumiho/releases/tag/v0.10.2) | 2026-11-06 |
+| [Kumiho](https://github.com/benyamin-git/Kumiho) | [![v0.10.3](https://img.shields.io/github/v/release/benyamin-git/Kumiho?include_prereleases&style=flat-square&label=)](https://github.com/benyamin-git/Kumiho/releases/tag/v0.10.3) | 2026-11-09 |
 | [poker.pot](https://github.com/benyamin-git/poker.pot) | [![v0.1.2](https://img.shields.io/github/v/release/benyamin-git/poker.pot?include_prereleases&style=flat-square&label=)](https://github.com/benyamin-git/poker.pot/releases/tag/v0.1.2) | 2026-10-09 |
 | [ORBYN](https://github.com/benyamin-git/ORBYN) | [![v0.3.0](https://img.shields.io/github/v/release/benyamin-git/ORBYN?include_prereleases&style=flat-square&label=)](https://github.com/benyamin-git/ORBYN/releases/tag/v0.3.0) | 2026-10-14 |
 <!-- releases:end -->
