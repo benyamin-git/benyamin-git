@@ -10,7 +10,7 @@
 
 ---
 
-### I’m currently working on:
+### I’m currently working on
 
 <table>
   <tr>
@@ -40,12 +40,12 @@
 <summary><strong>More about these projects</strong></summary>
 
 - [Dr. BM Shoes Official Website](https://drbmshoes.com): static Persian storefront for a medical footwear shop, catalog-only, orders through Bale or WhatsApp (not open source and not owned by me), plus a Telegram catalogue bot and public catalogue at [@drbmshoes](https://t.me/drbmshoes).
-- [ClyTrade](https://github.com/benyamin-git/ClyTrade): a local-first trading app with a trade journal, spot portfolio tracker, price alerts and calculators, plus an installable PWA with windows and android builds. these tools don't need server side services and shouldn't be behind subscription plans, but are, so i have to vibe code them. [Github Page Sample](https://benyamin-git.github.io/ClyTrade)
-- [Kumiho](https://github.com/benyamin-git/Kumiho): unofficial linux, windows, android and android tv client for the free firefox-account vpn proxy, with a daemon, TUI/CLI/GUI, TUN/Wintun, a kill switch and systemd/windows service support, similar to and inspired by [FoxyVPN](https://github.com/Vauth/FoxyVPN).
+- [ClyTrade](https://github.com/benyamin-git/ClyTrade): a local-first trading app with a trade journal, spot portfolio tracker, price alerts and calculators, plus an installable PWA with Windows and Android builds. These tools don't need server-side services and shouldn't be behind subscription plans, but are, so I have to vibe code them. [GitHub Page Sample](https://benyamin-git.github.io/ClyTrade)
+- [Kumiho](https://github.com/benyamin-git/Kumiho): unofficial Linux, Windows, Android and Android TV client for the free Firefox Account VPN proxy, with a daemon, TUI/CLI/GUI, TUN/Wintun, a kill switch and systemd/Windows service support, similar to and inspired by [FoxyVPN](https://github.com/Vauth/FoxyVPN).
 
 </details>
 
-### Active side projects:
+### Active side projects
 
 <table>
   <tr>
@@ -68,19 +68,27 @@
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/benyamin-git/Inlign">Inlign</a></strong><br>
-      <sub>Equation-per-card notepad with a Rust/WASM engine. Installable PWA.</sub><br>
+      <sub>Local-first notepad that evaluates one equation per card with a Rust/WASM engine. Installable PWA.</sub><br>
       <sub>No tagged release yet</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <strong><a href="https://github.com/benyamin-git/Anqa">Anqa</a></strong><br>
+      <sub>Self-hosted dashboard that runs Telegram bots as one Docker container per bot.</sub><br>
+      <sub>No tagged release yet · <a href="https://github.com/benyamin-git/Anqa/pkgs/container/anqa">GHCR image</a></sub>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>More about these projects</strong></summary>
+<summary><strong>More about side projects</strong></summary>
 
-- [dailypoker.bot](https://github.com/benyamin-git/dailypoker.bot): opinionated version of poker i play with friends as a telegram bot running as a single bun process with a local sqlite database over long polling. (not normal betting rules and not real money)
-- [poker.pot](https://github.com/benyamin-git/poker.pot): opinionated poker pot manager as a phone-viewport webapp with android apk and home-screen pwa support, to keep track of my friend group's poker bets to substitute a lack of chips. (not normal betting rules) [Github Page Sample](https://benyamin-git.github.io/poker.pot)
-- [ORBYN](https://github.com/benyamin-git/ORBYN): simple lightweight terminal screensaver with an orb, a carrion creature and an ascii worm to prevent burn-in.
-- [Inlign](https://github.com/benyamin-git/Inlign): early draft of a project similar to but not inspired by [Soulver](https://soulver.app/), with one equation per card and a Rust/WASM engine that computes and cross-checks values as you type. the card notepad, variable engine and installable PWA work; no tagged release yet.
+- [dailypoker.bot](https://github.com/benyamin-git/dailypoker.bot): opinionated version of poker I play with friends, as a Telegram bot running as a single Bun process with a local SQLite database over long polling. Not normal betting rules and not real money.
+- [Anqa](https://github.com/benyamin-git/Anqa): self-hosted dashboard for running Telegram bots as one Docker container per bot, with start, stop and autostart from one page. Early software; no tagged release yet.
+- [poker.pot](https://github.com/benyamin-git/poker.pot): opinionated poker pot manager as a phone-viewport web app with Android APK and home-screen PWA support, to keep track of my friend group's poker bets and substitute a lack of chips. Not normal betting rules. [GitHub Page Sample](https://benyamin-git.github.io/poker.pot)
+- [ORBYN](https://github.com/benyamin-git/ORBYN): simple terminal screensaver with an orb, a carrion creature and an ASCII worm to prevent burn-in.
+- [Inlign](https://github.com/benyamin-git/Inlign): local-first notepad with one equation per card and a Rust/WASM engine that computes and cross-checks values as you type. The card notepad, variable engine and installable PWA work; no tagged release yet. The previous implementation is archived as [Inlign-legacy](https://github.com/benyamin-git/Inlign-legacy).
 
 </details>
 
@@ -97,9 +105,6 @@
 <details>
 <summary><strong>Unmaintained / no longer active projects</strong></summary>
 
-- [poker.cli](https://github.com/benyamin-git/poker.cli): a cli version of [poker.pot](https://github.com/benyamin-git/poker.pot) with a bunch of bugs and half finished features. archived on github.
+- [poker.cli](https://github.com/benyamin-git/poker.cli): a CLI version of [poker.pot](https://github.com/benyamin-git/poker.pot) with known bugs and half-finished features. Archived on GitHub.
 
 </details>
-
-### How to reach me:
-- benyaminprotonmail@proton.me
