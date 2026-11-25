@@ -1,6 +1,6 @@
 <div align="center">
 
-## benyamin
+# benyamin
 
 **just another vibe coder**
 
@@ -106,5 +106,7 @@
 <summary><strong>Unmaintained / no longer active projects</strong></summary>
 
 - [poker.cli](https://github.com/benyamin-git/poker.cli): a CLI version of [poker.pot](https://github.com/benyamin-git/poker.pot) with known bugs and half-finished features. Archived on GitHub.
+- [Coffer](https://github.com/benyamin-git/Coffer): text-only note-taking CLI with an encrypted single-file vault. Archived on GitHub.
+- [Inlign-legacy](https://github.com/benyamin-git/Inlign-legacy): previous Inlign implementation. Archived on GitHub.
 
 </details>
